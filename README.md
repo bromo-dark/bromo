@@ -3,7 +3,7 @@
 </p>
 Bot simple de WhatsApp para Android y pc
 
-# esu-bot
+# Bromo
 
 ### FOR TERMUX USER💥
 ```bash
